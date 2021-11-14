@@ -1,0 +1,51 @@
+.bgten {
+    background-image: url(./10thbgimage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#title {
+    text-align: center;
+    font-size: 5cm;
+    color: yellow;
+    font-family: monospace;
+}
+
+#sports {
+    text-align: center;
+    color: red;
+    font-size: 2cm;
+}
+
+#acedamics {
+    text-align: center;
+    color: red;
+    font-size: 2cm;
+}
+
+#extras {
+    text-align: center;
+    color: red;
+    font-size: 2cm;
+}
+
+.tenmain {
+    text-align: center;
+    font-size: 3cm;
+    color: red;
+    background-color: sandybrown;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: orange;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: blue;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid orange;  /* creates padding around scroll thumb */
+}

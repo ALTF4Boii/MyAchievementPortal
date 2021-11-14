@@ -1,0 +1,90 @@
+.h1body {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    background-image: linear-gradient();
+    font-size: 2cm;
+    
+}
+.h2body {
+    color:blue;
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant-position: super;
+}
+
+.class9 {
+    font: large;
+    color: rgb(rgb(87, 73, 73), rgb(68, 92, 68), rgb(0, 0, 0));
+    text-align: center;
+}
+
+.bgimage {
+    padding: 20em;
+    background-image: url(./achievementpic2.jfif);
+    background-size: 1250px 1450px;
+    background-repeat: no-repeat;
+}
+
+.grade9 {
+    color: blue;
+    font-size: large;
+    font-size: 1.5cm;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.grade10 {
+    color: blueviolet;
+    font-size: large;
+    font-size: 1.5cm;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.grade11 {
+    color: green;
+    font-size: large;
+    font-size: 1.5cm;
+    font-family: sans-serif;
+    text-align: center;
+}
+.grade12 {
+    color: blue;
+    font-size: large;
+    font-size: 1.5cm;
+    font-family: sans-serif;
+    text-align: center; 
+}
+
+.imgblack {
+    background-image: url(./blackscreen.jpg);
+    color: white;
+    height:300px;
+    text-align: center;
+    font-size: 5cm;
+}
+.contactme {
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: orange;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: blue;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid orange;  /* creates padding around scroll thumb */
+}
+
+.achieveaudio {
+    align-content: center;
+}

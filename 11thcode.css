@@ -1,0 +1,52 @@
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: orange;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: blue;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid orange;  /* creates padding around scroll thumb */
+}
+
+.bgeleven {
+    background-image: url(./11thbgimage.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    background-size: 34cm;
+}
+#title {
+    text-align: center;
+    font-size: 5cm;
+    color: chartreuse;
+    font-family: monospace;
+}
+
+#sports {
+    text-align: center;
+    color: yellow;
+    font-size: 2cm;
+}
+
+#acedamics {
+    text-align: center;
+    color: yellow;
+    font-size: 2cm;
+}
+
+#extras {
+    text-align: center;
+    color: red;
+    font-size: 2cm;
+}
+
+.elevenmain {
+    background-color: red;
+    font-size: 2cm;
+    text-align: center;
+    background-color: turquoise;
+}
